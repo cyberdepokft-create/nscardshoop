@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-03-03T23:54:21.291Z",
+  "updatedAt": "2026-03-03T23:58:40.537Z",
   "updatedBy": "NSadmin",
   "products": [
     {
@@ -130,8 +130,7 @@
       "badge": "Elite",
       "flags": [
         "rare",
-        "popular",
-        "hero"
+        "popular"
       ],
       "art": "pack-crown.svg",
       "images": [
