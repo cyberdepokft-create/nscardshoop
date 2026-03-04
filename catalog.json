@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-03-04T19:55:45.029Z",
+  "updatedAt": "2026-03-04T19:57:48.799Z",
   "updatedBy": "NSadmin",
   "products": [
     {
@@ -201,10 +201,10 @@
     },
     {
       "id": 10,
-      "category": "booster",
-      "name": "tdf",
-      "set": "dsf",
-      "line": "dsf",
+      "category": "tinek",
+      "name": "Mini Tin",
+      "set": "aswds",
+      "line": "daw",
       "description": "",
       "price": 7990,
       "oldPrice": null,
